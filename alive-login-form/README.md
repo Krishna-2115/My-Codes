@@ -34,7 +34,7 @@ A sleek and responsive **Login Form** built using **React**, **Vite**, and **Tai
 
 4. **Open in browser:**
 
-  http://localhost:5173
+   http://localhost:5173
 
 ## 🧾 Folder Structure
 
@@ -46,14 +46,14 @@ src/
 ├── main.jsx            # Entry point
 └── ...
 
-📚 Customization
+## 📚 Customization
 Change background color in App.jsx
 
 Modify form validation logic inside LoginForm.jsx
 
 Customize Tailwind classes freely
 
-🛡 License
+## 🛡 License
 This project is open-source and available under the MIT License.
 
 Made with ❤️ using React + Tailwind
