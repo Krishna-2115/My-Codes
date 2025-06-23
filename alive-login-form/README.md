@@ -38,13 +38,13 @@ A sleek and responsive **Login Form** built using **React**, **Vite**, and **Tai
 
 ## 🧾 Folder Structure
 
-src/
-├── App.jsx             # Root app component
-├── components/
-│   └── LoginForm.jsx   # Login form logic and UI
-├── index.css           # Tailwind CSS & custom styles
-├── main.jsx            # Entry point
-└── ...
+src/<br/>
+├── App.jsx             # Root app component<br/>
+├── components/<br/>
+│   └── LoginForm.jsx   # Login form logic and UI<br/>
+├── index.css           # Tailwind CSS & custom styles<br/>
+├── main.jsx            # Entry point<br/>
+└── ...<br/>
 
 ## 📚 Customization
 Change background color in App.jsx
